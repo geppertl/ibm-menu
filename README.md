@@ -6,6 +6,8 @@
 
 "Install"
 
-curl -fsSL https://raw.github.com/geppertl/ibm-menu/master/ibm-menu.sh > ibm-menu.sh
+curl -fsSL https://raw.github.com/geppertl/ibm-menu/master/ibm-menu.sh > ibm-menu.sh 
+
 chmod +x ibm-menu.sh
+
 ./ibm-menu.sh 
